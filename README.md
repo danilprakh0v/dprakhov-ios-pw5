@@ -132,6 +132,6 @@ dprakhovPW5/
 ## Контакты
 
 **Автор:** Прахов Данил  
-**Email:** danilla9083@gmail.com  
+**Email:** danilla9082@gmail.com  
 **GitHub:** [@danilprakh0v](https://github.com/danilprakh0v)  
 **Telegram:** [@kirayoshikag](https://t.me/kirayoshikag)
